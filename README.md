@@ -1,7 +1,7 @@
 # tweetybird
 A Flappy Bird inspired clone using Javascript, Canvas, and HTML5. 
 
-[View Live Site Here](https://ebaek.github.io/tweetybird/)
+[View Live Site Here](https://mitvpatel97.github.io/tweetybird/)
 ---
 
 ![Image](images/sample-game.gif)
