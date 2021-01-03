@@ -8,9 +8,8 @@ A Flappy Bird inspired clone using Javascript, Canvas, and HTML5.
 
 ## Background and Overview
   ### Motivation: 
-  * Flappy Bird will always stand out to me as a childhood favorite. I decided to clone the game because I wanted to learn 
-  more about sprites and how to account for collisions. This was a super fun project and I hope to write more games in the 
-  future! 
+  * Flappy Bird will always stand out to me as an iconic elevator game. I decided to clone the game because I wanted to learn 
+  more about sprites and how to account for collisions. This was a really insightful project.
   
   ### Goals 
   * Animate tweetybird and background by utilizing sprite sheet on HTML5 canvas for dynamic and smooth rendering
@@ -21,6 +20,3 @@ A Flappy Bird inspired clone using Javascript, Canvas, and HTML5.
   * HTML5 Canvas to render game components (bird, background, pipes)
   * Webpack to bundle scripts into a single source
 
-## Future Features
-* Rankings: store scores in AWS or Google Firebase 
-* Sound effects: mimic bird movements and collisions 
